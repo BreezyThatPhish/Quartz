@@ -1,4 +1,5 @@
 ---
+title: Foyer
 ---
 ---
 # Hello! Welcome to my website
