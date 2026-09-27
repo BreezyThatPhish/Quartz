@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "comments": {
+      "source": "https://github.com/quartz-community/comments",
+      "resolved": "https://github.com/quartz-community/comments",
+      "commit": "f8e2588f94f008761c1f67d28b1e19e8bd057408",
+      "installedAt": "2026-09-24T22:11:48.637Z"
+    },
+    "description": {
+      "source": "github:quartz-community/description",
+      "resolved": "https://github.com/quartz-community/description.git",
+      "commit": "7763f197b60c3aef85062843e87fc729d2966173",
+      "installedAt": "2026-09-24T22:22:52.814Z"
+    },
+    "fonts": {
+      "source": "https://github.com/quartz-community/fonts",
+      "resolved": "https://github.com/quartz-community/fonts",
+      "commit": "e7c824b6149f46a50b98a5c1474605385090895d",
+      "installedAt": "2026-09-24T22:26:59.400Z"
+    },
+    "recent-notes": {
+      "source": "https://github.com/quartz-community/recent-notes",
+      "resolved": "https://github.com/quartz-community/recent-notes",
+      "commit": "28229202d481d5a41dc38e57ce320c561d20d0e8",
+      "installedAt": "2026-09-24T22:17:40.325Z"
+    }
+  }
+}
