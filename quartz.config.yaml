@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: breezythatphish.github.io/quartz
+  baseUrl: breezythatphish.github.io/Quartz
   ignorePatterns:
     - private
     - templates
