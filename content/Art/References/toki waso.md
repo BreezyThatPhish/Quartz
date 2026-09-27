@@ -8,7 +8,7 @@ However it needed some modifications, both due to its lack of a mouth and its la
 
 toki luka is the hand sign language that anyone can use and toki waso is the feathered sign language built for [[aalto]].
 
-<font style="color:grey"> I have not touched this in a long time and honestly almost forgot about it, so it's rough, but an important part of [[aalto|aalto's]] character all the same </font> 
+*I have not touched this in a long time and honestly almost forgot about it, so it's rough, but an important part of [[aalto|aalto's]] character all the same*
 
 # Letters | nimi 
 
