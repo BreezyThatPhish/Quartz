@@ -15,7 +15,7 @@ Hyperart can be caused by a shifting environment rendering an existing structure
 |   An example of a "pure staircase"   |
 
 Rather insultingly, the "Thomasson" part of the namesake comes from a professional baseball player, [Gary Thomasson](https://en.wikipedia.org/wiki/Gary_Thomasson). He was a strong player for years, playing for a variety of US teams, until he was signed on for a Japanese team, the [Yomiuri Giants](https://en.wikipedia.org/wiki/Yomiuri_Giants).
-His signing to the [Giants](https://en.wikipedia.org/wiki/Yomiuri_Giants) was a new record for the [Nippon League](https://en.wikipedia.org/wiki/Nippon_Professional_Baseball), but despite this his performance was dismal. He spent the majority of his incredibly high paying contract, benched, and out of use. A useless piece of architecture, paid for and preserved, to do absolutely nothing. 
+The price of his signing to the [Giants](https://en.wikipedia.org/wiki/Yomiuri_Giants) was a new record for the [Nippon League](https://en.wikipedia.org/wiki/Nippon_Professional_Baseball), but despite this his performance was dismal. He spent the majority of his incredibly high paying contract, benched, and out of use. A useless piece of architecture, paid for and preserved, to do absolutely nothing. 
 This is why [Akasegawa](https://en.wikipedia.org/wiki/Genpei_Akasegawa) chose to name the phenomenon after him; apt, if insulting. 
 
 I was introduced to the concept via msx's [Pure Staircase Album](https://lapfox.bandcamp.com/album/pure-staircase), a wonderful noise album, and since then it has been the focus of a great and prolonged fascination. 
