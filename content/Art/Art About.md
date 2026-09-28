@@ -1,5 +1,5 @@
 ---
-description: What I do and love about art
+description: What I do and love about art.
 ---
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: My toki pona sign language system designed for aalto
+description: My toki pona sign language system designed for aalto.
 ---
 ---
 

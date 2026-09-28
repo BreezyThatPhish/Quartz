@@ -1,5 +1,5 @@
 ---
-description: The idealised self
+description: The idealised self.
 ---
 ---
 

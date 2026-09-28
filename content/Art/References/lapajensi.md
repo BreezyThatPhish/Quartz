@@ -1,5 +1,5 @@
 ---
-description: Faded meaning through infantile eyes
+description: Faded meaning through infantile eyes.
 ---
 ---
 

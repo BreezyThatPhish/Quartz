@@ -1,5 +1,5 @@
 ---
-description: Ambiguphobia and the yearning for connection
+description: Ambiguphobia and the yearning for connection.
 ---
 ---
 

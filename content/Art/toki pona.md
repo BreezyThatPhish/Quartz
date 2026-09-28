@@ -3,6 +3,8 @@ description: A different perspective.
 ---
 ---
 
+#### <font style="color: grey"> The Language of Good </font>
+
 [toki pona](https://sona.pona.la/wiki/Main_Page) is a [conlang](https://en.wikipedia.org/wiki/Constructed_language) designed around minimalism. With ~120 words, it is highly abstract and context dependent. It is what you've been seeing me use around the site.
 
 There are a variety of benefits and appeals for this system, but the one I find most compelling, and the reason I choose to speak it, is that it serves as a form of meditation. 
