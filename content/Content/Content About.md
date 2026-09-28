@@ -10,6 +10,8 @@ I have always had anxiety regarding my "career", and over the years I realised m
 
 The form that takes right now is that of online content creation: twitch streaming and video editing. These combine such a broad set of skills that I have found it absolutely enrapturing, allowing me to draw on everything from art, writing, """crowd-work""", community building and interaction, editing and more; it is a deeply enticing prospect to me, and one that allows me to put so much of myself into every element of it. 
 
+<br>
+
 # Resources
 # [[PNGTuber|-jan la sitelen tawa | PNGTuber]]  
 Information about my PNGTuber and how it works. 
