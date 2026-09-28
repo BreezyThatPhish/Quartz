@@ -15,11 +15,11 @@ The form that takes right now is that of online content creation: twitch streami
 Information about my PNGTuber and how it works. 
 <font style="color:grey"> jan la sitelen tawa soweli e mi kon </font>
 
-# [[Twitch|tawa pi musi sitelen | Twitch]]
+# [[Stream & Video Making|tawa pi musi sitelen | Twitch]]
 Information about my [Twitch](https://twitch.tv/breezyphish), I stream three times a week at minimum with a particular focus on viewer interaction. 
 <font style="color:grey"> mi lon tenpo ni tawa kulupu </font>
 
-# [[Youtube|awen pi musi sitelen | Youtube]]
+# [awen pi musi sitelen | Youtube](https://www.youtube.com/@BreezyThatPhish)
 My [Youtube](https://www.youtube.com/@BreezyThatPhish), I do stream highlights and video essays, often times a mix of both. 
 <font style="color:grey"> mi pali awen pi musi sitelen tawa kulupu ilo </font>
 
