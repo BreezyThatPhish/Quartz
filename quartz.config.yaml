@@ -305,7 +305,12 @@ plugins:
     enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: BreezyThatPhish/Quartz
+        repoId: R_kgDOUupFWw
+        category: Announcements
+        categoryId: DIC_kwDOUupFW84DGrUe
+        lang: en
     order: 50
     layout:
       position: afterBody
