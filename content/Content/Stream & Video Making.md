@@ -24,6 +24,9 @@ I've been writing stories and loving books since I was like 5, I have a distinct
 
 The essayist format is something I try and incorporate into all my content to some degree due to my love of writing and theatric articulation, though obviously to differing degrees depending on the work. 
 And whilst dedicated essay videos are fewer and further between than more traditional highlights due to their workload and scope, theyre some of the projects I look forward to the most. 
+
+<br>
+
 # Info and Materials 
 
 Heres a run down of all the little tools I use for stream. My hardware specifications and broader software tools can be found over in [[Tech About]].
