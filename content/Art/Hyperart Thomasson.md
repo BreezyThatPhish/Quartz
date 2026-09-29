@@ -2,6 +2,7 @@
 description: The emergent phenomenon of hyperart and the lampshading of conscious perception.
 aliases:
   - Pure Staircase
+comments: "false"
 ---
 ---
 

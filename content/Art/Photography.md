@@ -1,5 +1,6 @@
 ---
 description: The meditative appreciation of photography.
+comments: "false"
 ---
 ---
 

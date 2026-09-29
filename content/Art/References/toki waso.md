@@ -1,5 +1,6 @@
 ---
 description: My toki pona sign language system designed for aalto.
+comments: "false"
 ---
 ---
 

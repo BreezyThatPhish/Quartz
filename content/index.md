@@ -23,7 +23,7 @@ References of my own art / characters and musings on passions.
  <font style="color:grey">luka en kon li pali e musi</font>  
 
 # [[Content About|- wile pana | Content]] WIP
- The materials and how-to's of my content. 
+ The materials, how-to's and hopes of my content. 
  <font style="color:grey"> wile wawa li pana</font>  
 
 # [[Music About|- kute musi | Music]] WIP
