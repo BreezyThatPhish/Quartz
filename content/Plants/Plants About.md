@@ -3,7 +3,9 @@ description: My children.
 comments: "false"
 ---
 ---
+![[P1040915.jpg]]
 
+#### <font style="color:grey"> olin mama tawa kasi </font>
 Plants have been a hobby that kind of exploded into my life over the past few years. Im lucky enough to have a space largely to myself at home, a detached garage that we converted the loft of to be like an apartment (though without any water), and as soon as I had that kind of control over a space I began filling it with plants without really thinking about it. 
 They began as an obvious pick to decorate the space, but instead of stopping at two or three, I just kept seeing and finding ones that I liked. And as the quantity in my room grew, so did my earnest passion for them, almost lagging behind the number I actually owned for a while.
 
@@ -20,7 +22,7 @@ It lost a couple leaves to the rot but it did survive, and grew two new ones ove
 I think about that little arc everytime I see it, and Im reminded for the love I have for it. 
 
 For another anecdote, my largest plant as of writing is my first monstera deliciosa, which was a plant I took from my mum. It was pretty sad with her, droopy and constantly sodden wet, she handed it over to me mostly on the basis that she didnt know how to properly care for it. 
-I didnt know any better in the moment myself, but through putting in the time to, again, repot it with new soil, re-sit and tie up some better supports for its heavy stems, and placing it in the best lighting spot I could find, it has been maybe my most actively growing plant just behind my second smaller monstera. 
+I didnt know any better myself in the moment, but through putting in the time to, again, repot it with new soil, re-sit and tie up some better supports for its heavy stems, and placing it in the best lighting spot I could find, it has been one of my most active plants .
 It is constantly growing new shoots and new leaves, and recently has a whole new one coming right up out of the soil. The beginning of a new main branch I hope. 
 
 Most of my plants have little chronologies to them like this, and every single one of them have the potential to create them.

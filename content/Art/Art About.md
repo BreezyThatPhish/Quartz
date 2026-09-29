@@ -3,7 +3,7 @@ description: What I do and love about art.
 comments: "false"
 ---
 ---
-
+![[Clambering.png]]
 #### <font style="color:grey"> olin wawa e musi kon tan seme? </font>
 Art doesnt need explanation, its a form of an inherent human(?) desire to express yourself and connect with others. The fulfilment of the process, the exploration of what you put into it, the reach and commonality it can bring with others, its a lifeblood.
 And yet equally, its not anything at all. Art is not an inherent trait, its a projected concept. Art is not art to those who do not perceive it as art, just as it is undeniably art to others who do take it as such.

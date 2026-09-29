@@ -34,14 +34,14 @@ Heres a run down of all the little tools I use for stream. My hardware specifica
 #### <font style="color:grey"> OBS Studio </font>
 Self explanatory: robust, flexible, community driven, theres a reason several industries are build off the back of this thing. 
 The posterchild of open source. 
-
+![[Pasted image 20260929210433.png]]
 <br>
 
 #### <font style="color:grey"> KDENLive </font>
 I do my editing in [KDENLive](https://kdenlive.org/). 
 
 Its fine. 
-
+![[Pasted image 20260929210018.png|800]]
 <br>
 
 #### <font style="color:grey"> PNGTuber </font>
@@ -63,9 +63,10 @@ I stream both to YT and Twitch simultaneously using [aitum multistream](https://
 This is not the only multistreaming solution but due to me having rather good internet its the one I personally chose.
 
 For my multichat widget I use [nutty.gg's overlay](https://nutty.gg/en-gbp/products/multichat-overlay), and whilst it requires [streamerbot](https://streamer.bot/) to function, it's one of the more customisable and aesthetically pleasing overlays I have found. 
-
+![[vlcsnap-2026-09-29-21h10m53s464.png|800]]
 <br>
 
 #### <font style="color:grey"> Stream Decks </font>
 I have two stream decks, one is a [Stream Deck+](https://www.elgato.com/us/en/p/stream-deck-plus) and another [Stream Deck 15 Key](https://www.elgato.com/us/en/p/stream-deck), the latter of which was kindly gifted to me by a friend. 
 The software I use for it is [Stream Controller](https://github.com/StreamController/StreamController), a piece of software I have many gripes with and frankly eats up far too much of my pc's resources, but works fairly well and allows me to do a good deal of tricks. 
+![[Pasted image 20260929210533.png]]

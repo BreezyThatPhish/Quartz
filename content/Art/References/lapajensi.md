@@ -4,6 +4,7 @@ comments: "false"
 ---
 ---
 
+![[Stone Avatar.png]]
 <font style="color:grey"> The name "labyrinth" translated to [[toki pona]] </grey>
 *This is an informal run down I have used from a previous explanation for the meantime, this will likely be revamped*
 
@@ -36,5 +37,4 @@ And so the question would be how would they experience it? would they attempt to
 
 | ![[Stairworld1.png]]  |
 | :-------------------: |
-| ![[Stone Avatar.png]] |
 | ![[Stairworld 2.png]] |
