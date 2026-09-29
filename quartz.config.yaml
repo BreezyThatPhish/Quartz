@@ -302,7 +302,7 @@ plugins:
       exportPadding: 20
     order: 50
   - source: https://github.com/quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
