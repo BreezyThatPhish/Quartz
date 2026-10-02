@@ -4,9 +4,10 @@ comments: "false"
 ---
 ---
 
-#### <font style="color:grey"> mi lon tenpo ni tawa kulupu </font>
+#### <font style="color:grey"> mi olin tawa pali musi </font>
 
 I've tried streaming and youtuber-ing a few times throughout my life, typically way way too early. I have many unlisted videos on my youtube of 14 year old me on the ps4 streaming for hours to nobody and barely saying anything, or lackluster titanfall 2 compilations and highlight reels that got viewcounts you could quantify on your hands. It has been incredibly cool to finally start making something out of it, Ive already gotten farther than I ever though I would.
+![[vlcsnap-2026-10-01-21h56m06s892.png]]
 
 I find the strength of streaming as a medium to be the interactivity with others. My favourite parts about it is when chat influences and forms the stream just as much, if not more, than myself. Its an extension of community sure, but the mutual product is far greater than whatever could have been made by either party alone. It becomes an emergent quality. 
 This is why I prefer to make stream highlights compared to recorded gameplay, the latter lacks that dynamic.

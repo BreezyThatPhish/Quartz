@@ -2,7 +2,7 @@
 title: Foyer
 comments: "false"
 ---
-[]()---
+---
 # Hello! Welcome to my website
 #### <font style="color:grey"> toki! kama pona lon mi lipu </font>  
 ![[Hello.png]]

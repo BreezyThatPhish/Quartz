@@ -3,7 +3,6 @@ description: The materials, how-to's and hopes of my content.
 comments: "false"
 ---
 ---
-
 #### <font style="color:grey"> wile pana </font>
 <br>
 I have always been a creative, and my interests span several mediums, both from a creator and consumer perspective. I deeply wish to make content creation of some kind my job. 
@@ -15,15 +14,19 @@ The form that takes right now is that of online content creation: twitch streami
 <br>
 
 # Resources
+
+# [[Stream & Video Making|-mi olin tawa pali musi| Stream & Video Making]]
+Information, musings and resources about my whole content creation endeavour.
 # [[PNGTuber|-jan la sitelen tawa | PNGTuber]]  
 Information about my PNGTuber and how it works. 
 <font style="color:grey"> jan la sitelen tawa soweli e mi kon </font>
-
-# [[Stream & Video Making|tawa pi musi sitelen | Twitch]]
-Information about my [Twitch](https://twitch.tv/breezyphish), I stream three times a week at minimum with a particular focus on viewer interaction. 
+# [[UK Twitch Integration Mod|-ilo kulupu| UK Twitch Integration Mod]]
+A resource sheet about how to use [Flazhik's](https://github.com/Flazhik) twitch integration mod for ULTRAKILL.
+<font style="color:grey"> ilo kulupu luka mi musi sitelen </font>
+# [-tawa pi musi sitelen | Twitch](https://twitch.tv/breezyphish)
+My [twitch](https://twitch.tv/breezyphish), I stream at least 3 times a week with a particular focus on viewer interaction.
 <font style="color:grey"> mi lon tenpo ni tawa kulupu </font>
-
-# [awen pi musi sitelen | Youtube](https://www.youtube.com/@BreezyThatPhish)
+# [-awen pi musi sitelen | Youtube](https://www.youtube.com/@BreezyThatPhish)
 My [Youtube](https://www.youtube.com/@BreezyThatPhish), I do stream highlights and video essays, often times a mix of both. 
 <font style="color:grey"> mi pali awen pi musi sitelen tawa kulupu ilo </font>
 

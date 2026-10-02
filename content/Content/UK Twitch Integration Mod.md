@@ -3,10 +3,10 @@ description: Information about how to use my twitch chat integration mod for Ult
 comments: "false"
 ---
 ---
-
+#### <font style="color: grey"> ilo kulupu luka mi musi sitelen </grey>
 A mod kindly made for me by [Flazhik](https://github.com/Flazhik), it allows various Ultrakill related channel points on my twitch stream to go right through and effect the game directly and instantly. Loadout changes, PSX Graphic settings, hitstop modification, etc. 
 Its a hilarious mod that allows for a great amount of viewer agency and its been a great boon to have, however its syntax is a little precise. So this page is dedicated entirely to explaining how to use it. 
-
+![[arm stolen.mp4]]
 # General Prompt Syntax
 
 All of these go through point redeems, and all those that require a text input follow universal syntax. 
