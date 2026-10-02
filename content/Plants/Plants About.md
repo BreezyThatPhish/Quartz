@@ -72,14 +72,14 @@ Its nicknamed the "fiddle-leaf" due to the shape of its leaves, looking like an 
 
 <br>
 
-#### <font style="color:grey"> Sansevieria | Snake Plant </font>
+#### <font style="color:grey"> Dracaena Trifasciata | Snake Plant </font>
 
 | ![[P1050233.jpg]] | ![[P1050234.jpg]] |
 | ----------------- | ----------------- |
 | ![[P1050259.jpg]] | ![[P1050272.jpg]] |
 
 [Wikipedia](https://en.wikipedia.org/wiki/Dracaena_trifasciata)
-Snake plants have one of the most extensive and colourful range of nicknames for any plant I know of, likely to do with how easy to take care of they are leading to their widespread nature. 
+Snake plants have one of the most extensive and colourful range of nicknames of any plant I know of, likely to do with how easy to take care of they are leading to their widespread nature. 
 Obviously theres the one I use, snake-plant, but among that there are: bow string hemp, Saint George's Sword, devil's tongue, [Jinn's](https://en.wikipedia.org/wiki/Jinn) tongue, snake tongue, mother-in-law's tongue, etc.
 Their simplistic, solid green leaves are very appealing to me, and the flecks of colour that come with some are a nice bonus. They are simple, easy to look after due to their adaptation for dry and arid environments, and hold interesting shapes. Very good entry point. 
 
@@ -91,7 +91,8 @@ Their simplistic, solid green leaves are very appealing to me, and the flecks of
 | ----------------- | ----------------- |
 
 [Potted Plants.org](https://pottedplants.org/plant-care/dracaena-dorado-care-guide/)
-Just as I am a sucker for large amounts of green foliage, I am similarly a sucker for thick wooden trunk accents. Despite the somewhat exotic looks, they are rather simple to take care of, and has a large presence. 
+Just as I am a sucker for large amounts of green foliage, I am similarly a sucker for thick wooden trunk accents. This style of Dracaena has this often, there are even some that are 90% wooden strut with a little spikey tuft of leaves at the top. I want to get one of those someday. 
+Despite the somewhat exotic looks, they are rather simple to take care of, and have a large presence. 
 
 <br>
 
@@ -102,7 +103,7 @@ Just as I am a sucker for large amounts of green foliage, I am similarly a sucke
 | ![[P1050261.jpg]]   | ![[P1050260.jpg]]   |
 
 [Wikipedia](https://en.wikipedia.org/wiki/Monstera_deliciosa)
-Mentioned above as the one I saved from my mum, though I own two, and both have just not stopped growing since I got it up here. The larger one is rather top heavy at the moment, but its base is beginning to fill out at the bottom with that most recent sprout. 
+Mentioned above as the one I saved from my mum, though I own two, and both have just not stopped growing since I got it up here. The larger one is rather top heavy at the moment, but its base is beginning to fill out with that most recent sprout near the bottom. 
 Another surprisingly low maintenance plant for the presence it has, I absolutely love these things. 
 
 <br>
@@ -138,8 +139,8 @@ That topmost leaf is actually rather new, the stem grew up from nothing over the
 | ----------------- | ----------------- |
 
 [Wikipedia](https://en.wikipedia.org/wiki/Plerandra_elegantissima)
-Another one of my oldest plants, one my mum got for me. Those two combined give me a real affection toward it, and Im happy for it to be as stable as it is. 
-It has a bout of leaf shedding and new growths near the beginning of this last summer, hence the more bear bottom half, and has calmed down at this point, though Id love for it to keep working its way up like it has been. It looks like a small pine almost, ripped straight out of the Pacific northwest and put in a pot in my room. 
+Another one of my oldest plants, one my mum got for me. Those two factors combined give me a real affection toward it, and Im happy for it to be as stable as it is. 
+It had a bout of leaf shedding and new growths near the beginning of this last summer, hence the more bear bottom half, thoguh it has calmed down at this point. Id love for it to keep working its way up like it has been. It looks like a small pine almost, ripped straight out of the Pacific northwest and put in a pot in my room. 
 
 <br>
 
