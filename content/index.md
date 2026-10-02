@@ -22,7 +22,7 @@ This site will contain a mixture of resources regarding my hobbies & work for th
 References of my own art / characters and musings on passions.  
  <font style="color:grey">luka en kon li pali e musi</font>  
 
-# [[Content About|- wile pana | Content]] WIP
+# [[Content About|- wile pana | Content]] 
  The materials, how-to's and hopes of my content. 
  <font style="color:grey"> wile wawa li pana</font>  
 
@@ -30,7 +30,7 @@ References of my own art / characters and musings on passions.
 My love for sound. 
  <font style="color:grey"> kute en pini pali li musi </font>  
 
-# [[Plants About|-kasi | Plants]] WIP
+# [[Plants About|-kasi | Plants]] 
 The fulfillment of caring for plants.
 <font style="color:grey"> olin mama tawa kasi </font>
 
