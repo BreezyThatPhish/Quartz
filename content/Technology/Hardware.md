@@ -4,6 +4,8 @@ comments: "false"
 ---
 ---
 #### <font style="color:grey"> ilo kiwen </font>
+
+![[Pasted image 20261109214802.png]]
 # Main Rig 
 
 My PC is decently beefy, no supercomputer but certainly strong. It serves me well for the vast majority of what I do, and has been an ongoing tinkering project since I built it in 2022 (of which was my first ever PC build, thank you Canaan). 
