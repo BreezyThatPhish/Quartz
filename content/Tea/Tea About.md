@@ -7,6 +7,8 @@ comments: "false"
 #### <font style="color:grey"> telo kasi mi tawa kon </font>
 Tea has quickly become one of my most passionate interests, catalysed by my time abroad in Malaysia. It was to the point I brought home a second suitcase, of which around 2/3rds of the contents were tea related. I have a whole cabinet in my room dedicated entirely to tea, not helped by its interaction with another obsession of mine: mugs and pottery. 
 ![[P1050069.jpg]]
+I have a full list of my teas [[Tea List|Here]]
+
 There are several ways to enjoy tea: a typical and simple cup, a large and prolonged pot, loose leaf brewing with care put towards the steeping time and methods, engaging with the whole ceremony of [gong fu cha](https://en.wikipedia.org/wiki/Gongfu_tea), so on. The variety in both the methods and the teas themselves make it a vast and deep hobby, filled with history and spanning continents. 
 Also, for those wondering, the little clay fox is known as a [tea pet](https://en.wikipedia.org/wiki/Tea_pet). Mostly just a good luck charm to have whilst you drink, but they do have some direct involvements with the tea drinking process, namely to have excess water poured over them as "feeding", or as a temperature indicator for the water (watching how it evaporates). 
 

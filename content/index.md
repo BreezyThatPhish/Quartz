@@ -34,10 +34,10 @@ My love for sound.
 The fulfillment of caring for plants.
 <font style="color:grey"> olin mama tawa kasi </font>
 
-# [[Tea About|-kasi telo | Tea]] WIP
+# [[Tea About|-kasi telo | Tea]]
 The soulful nourishment of tea.
 <font style="color:grey"> telo kasi ma tawa kon </font>
 
-# [[Tech About|ilo | Technology]] WIP
+# [[Tech About|ilo | Technology]] 
 The adoration of hardware and software alike.
 <font style="color:grey"> olin e ilo tawa pali </font>

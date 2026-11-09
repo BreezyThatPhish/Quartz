@@ -41,7 +41,7 @@ The posterchild of open source.
 #### <font style="color:grey"> KDENLive </font>
 I do my editing in [KDENLive](https://kdenlive.org/). 
 
-Its fine. 
+Its fine. Surprisingly robust to be honest, but to be frank its hard to love video editors. 
 ![[Pasted image 20260929210018.png|800]]
 <br>
 
